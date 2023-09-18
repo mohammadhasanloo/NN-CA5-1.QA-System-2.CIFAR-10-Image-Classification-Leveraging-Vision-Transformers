@@ -2,7 +2,7 @@
 
 ### 1.QA System [Link](#part-1-qa-system)
 
-### 2.Transformer Vision to Classify Images [Link](#part-2-transformer-vision-to-classify-images)
+### 2.CIFAR-10 Image Classification: Leveraging Vision Transformers [Link](#part-2-CIFAR-10-Image-Classification:-Leveraging-Vision-Transformers)
 
 # Part 1: QA System
 
