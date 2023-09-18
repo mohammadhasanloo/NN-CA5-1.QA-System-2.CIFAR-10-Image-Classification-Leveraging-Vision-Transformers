@@ -1,4 +1,4 @@
-# NN-CA5-1.QA-System-2.Using-Transformer-Vision-to-Classify-Images
+# NN-CA5-1.QA-System-2.CIFAR-10-Image-Classification:-Leveraging-Vision-Transformers
 
 ### 1.QA System [Link](#part-1-qa-system)
 
@@ -51,7 +51,7 @@ Table 1 – Model Results Compared to Paper Results
 
 In the following sections, we also observe examples of the model's responses to test data, where both models provide the same answer.
 
-# Part 2: Transformer Vision to Classify Images
+# Part 2: CIFAR-10 Image Classification: Leveraging Vision Transformers
 
 ## Introduction
 
